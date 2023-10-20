@@ -1,0 +1,6 @@
+C:\Users\gerib\Documents\Rider\solutions\3-Largest prime factor\3-Largest prime factor\obj\Debug\3-Largest prime factor.csproj.AssemblyReference.cache
+C:\Users\gerib\Documents\Rider\solutions\3-Largest prime factor\3-Largest prime factor\obj\Debug\3-Largest prime factor.csproj.CoreCompileInputs.cache
+C:\Users\gerib\Documents\Rider\solutions\3-Largest prime factor\3-Largest prime factor\bin\Debug\_3_Largest_prime_factor.exe
+C:\Users\gerib\Documents\Rider\solutions\3-Largest prime factor\3-Largest prime factor\bin\Debug\_3_Largest_prime_factor.pdb
+C:\Users\gerib\Documents\Rider\solutions\3-Largest prime factor\3-Largest prime factor\obj\Debug\_3_Largest_prime_factor.exe
+C:\Users\gerib\Documents\Rider\solutions\3-Largest prime factor\3-Largest prime factor\obj\Debug\_3_Largest_prime_factor.pdb
