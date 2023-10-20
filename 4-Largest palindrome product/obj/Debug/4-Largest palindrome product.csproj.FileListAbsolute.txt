@@ -1,0 +1,6 @@
+C:\Users\gerib\Documents\Rider\solutions\4-Largest palindrome product\bin\Debug\_4_Largest_palindrome_product.exe
+C:\Users\gerib\Documents\Rider\solutions\4-Largest palindrome product\bin\Debug\_4_Largest_palindrome_product.pdb
+C:\Users\gerib\Documents\Rider\solutions\4-Largest palindrome product\obj\Debug\4-Largest palindrome product.csproj.AssemblyReference.cache
+C:\Users\gerib\Documents\Rider\solutions\4-Largest palindrome product\obj\Debug\4-Largest palindrome product.csproj.CoreCompileInputs.cache
+C:\Users\gerib\Documents\Rider\solutions\4-Largest palindrome product\obj\Debug\_4_Largest_palindrome_product.exe
+C:\Users\gerib\Documents\Rider\solutions\4-Largest palindrome product\obj\Debug\_4_Largest_palindrome_product.pdb
