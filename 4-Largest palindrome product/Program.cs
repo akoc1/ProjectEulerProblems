@@ -9,7 +9,7 @@ namespace _4_Largest_palindrome_product
             string numStr = number.ToString();
             int lastIndex = numStr.Length - 1;
 
-            for (int i = 0; i < numStr.Length; i++)
+            for (int i = 0; i < numStr.Length / 2; i++)
             {
                 if (numStr[i] != numStr[lastIndex])
                     return false;
