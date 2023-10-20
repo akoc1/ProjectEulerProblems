@@ -6,14 +6,11 @@ namespace _3_Largest_prime_factor
     {
         bool IsPrime(long n) // reference: https://en.wikipedia.org/wiki/Primality_test
         {
-            if (n <= 1)
+            if (n <= 1 && (n % 2 == 0 || n % 3 == 0))
                 return false;
 
             if (n == 2 || n == 3)
                 return true;
-
-            if (n % 2 == 0 || n % 3 == 0)
-                return false;
 
             for (long i = 5; i * i <= n; i += 6)
             {
