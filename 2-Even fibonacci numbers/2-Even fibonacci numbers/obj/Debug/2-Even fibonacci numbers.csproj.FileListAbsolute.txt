@@ -1,0 +1,6 @@
+C:\Users\gerib\Documents\Rider\solutions\2-Even fibonacci numbers\2-Even fibonacci numbers\bin\Debug\_2_Even_fibonacci_numbers.exe
+C:\Users\gerib\Documents\Rider\solutions\2-Even fibonacci numbers\2-Even fibonacci numbers\bin\Debug\_2_Even_fibonacci_numbers.pdb
+C:\Users\gerib\Documents\Rider\solutions\2-Even fibonacci numbers\2-Even fibonacci numbers\obj\Debug\2-Even fibonacci numbers.csproj.AssemblyReference.cache
+C:\Users\gerib\Documents\Rider\solutions\2-Even fibonacci numbers\2-Even fibonacci numbers\obj\Debug\2-Even fibonacci numbers.csproj.CoreCompileInputs.cache
+C:\Users\gerib\Documents\Rider\solutions\2-Even fibonacci numbers\2-Even fibonacci numbers\obj\Debug\_2_Even_fibonacci_numbers.exe
+C:\Users\gerib\Documents\Rider\solutions\2-Even fibonacci numbers\2-Even fibonacci numbers\obj\Debug\_2_Even_fibonacci_numbers.pdb
