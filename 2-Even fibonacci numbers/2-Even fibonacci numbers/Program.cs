@@ -8,15 +8,6 @@ namespace _2_Even_fibonacci_numbers
         {
             int limit = 4000000, a = 1, b = 1, c = 0, sum = 0;
 
-            /*for (int i = 1; i < 100; i++)
-            {
-                c = a + b;
-                a = b;
-                b = c;
-                
-                Console.WriteLine(c);
-            }*/
-
             while (c < limit)
             {
                 c = a + b;
@@ -27,7 +18,7 @@ namespace _2_Even_fibonacci_numbers
                     sum += c;
             }
 
-            Console.WriteLine("4 milyonun altındaki 2'ye bölünebilen fibonacci sayıların toplamı: " + sum.ToString());
+            Console.WriteLine("The sum of Fibonacci numbers less than 4 million divisible by 2: " + sum.ToString());
             
             return 0;
         }
